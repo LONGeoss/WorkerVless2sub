@@ -11,7 +11,6 @@ let addresses = [
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://raw.githubusercontent.com/LONGeoss/TC/refs/heads/main/1.txt',
 	'https://raw.githubusercontent.com/LONGeoss/TC/refs/heads/main/IP.txt' //可参考内容格式 自行搭建。
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
 ];
