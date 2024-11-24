@@ -12,7 +12,7 @@ let addresses = [
 // 设置优选地址api接口
 let addressesapi = [
 	'https://raw.githubusercontent.com/LONGeoss/TC/refs/heads/main/IP.txt',
-	'https://raw.githubusercontent.com/LONGeoss/TC/refs/heads/main/YM.txt'
+	'https://raw.githubusercontent.com/LONGeoss/TC/refs/heads/main/YM.txt',
 ];
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
